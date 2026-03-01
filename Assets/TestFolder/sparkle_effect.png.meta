@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1a34c379d4e343340911ac7bc88ef144
+guid: 94637a6dcca191a44ada625105c62140
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46ede9f8f991103449a478c33361a2aa
-      internalID: 416980204
+      spriteID: 445c4eded0d501c41a6c01a1c5717c8b
+      internalID: -688172696
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a2d8e3834461a8429d38f609aef4606
-      internalID: 31460408
+      spriteID: 89fe1e30c5a20254dabcc45c223f7828
+      internalID: -1566749369
       vertices: []
       indices: 
       edges: []
@@ -156,8 +156,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 956328c52175aeb4dba27e4837608cf5
-      internalID: 211454061
+      spriteID: 7410e83fa88168648b439ea33f0b9c7c
+      internalID: -1339923630
       vertices: []
       indices: 
       edges: []
@@ -178,8 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 54537a8ff6877f0449b573b86ae09725
-      internalID: -36001092
+      spriteID: 252c5f376bfbe8e46952926071c7f864
+      internalID: 1367495461
       vertices: []
       indices: 
       edges: []
@@ -188,7 +188,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 6fe15092205f92841a0f8542863c7f01
+    spriteID: 2f60ade50dbc3a640a8d9b2a993fb0ed
     internalID: 0
     vertices: []
     indices: 
@@ -198,10 +198,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sparkle_effect_0: 416980204
-      sparkle_effect_1: 31460408
-      sparkle_effect_2: 211454061
-      sparkle_effect_3: -36001092
+      sparkle_effect_0: -688172696
+      sparkle_effect_1: -1566749369
+      sparkle_effect_2: -1339923630
+      sparkle_effect_3: 1367495461
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
